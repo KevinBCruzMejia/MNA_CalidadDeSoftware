@@ -1,0 +1,1 @@
+{"name": "Test Hotel", "location": "Test Location", "rooms": [{"room_number": 101, "room_type": "single", "price": 400.0, "is_available": false}]}
