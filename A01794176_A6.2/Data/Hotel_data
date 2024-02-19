@@ -1,0 +1,6 @@
+[
+  {
+    "NAME": "My Hotel",
+    "Location": "Mexico",
+    "Room": [{"room_number": 10, "room_type": "single", "price": 200, "is_available": true}]
+  }
